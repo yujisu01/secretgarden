@@ -1,8 +1,11 @@
  # <div align="center">:cherry_blossom:  Welcome to SECRET GARDEN :cherry_blossom: </div>
 
 
-## :heavy_check_mark: 프로젝트 소개
-    안녕하세요
+## :heavy_check_mark: 기획의도
+    Secret garden은 첫번째로 만든 개인프로젝트로써, 평소에 즐겨하던 방탈출카페를 웹사이트로 구현해보고 싶었습니다.
+스프링에 대한 배경지식을 바탕으로, 
+1개월의 프로젝트 기간동안 만들었습니다.
+    
 
 ## :heavy_check_mark: 시연영상  (클릭시 영상이 재생됩니다)
 [![secretgardenProjectVideo](https://img.youtube.com/vi/qmONs1K2UUc/0.jpg)](https://www.youtube.com/watch?v=qmONs1K2UUc)

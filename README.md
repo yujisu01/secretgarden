@@ -9,11 +9,6 @@
 ![erd](https://user-images.githubusercontent.com/78129881/128227215-60162b26-4f70-4fb8-9d58-4da0b83f3313.jpg)
 ## :heavy_check_mark: Tech stack
 ![tools](https://user-images.githubusercontent.com/78129881/128227254-eaa92183-0cb1-4c9f-a6e9-699c4a7a807d.jpg)
-
-
-
-
-
-
+<br></br><br></br><br></br>
 
  # <div align="center"> :sparkles: 봐주셔서 감사합니다. :sparkles: </div>

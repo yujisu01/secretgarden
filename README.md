@@ -26,8 +26,7 @@
 ### 4. 회원탈퇴
 ![회원탈퇴](https://user-images.githubusercontent.com/78129881/128315197-9ab64bbd-918d-4d11-9c72-a2efbf7f68f7.jpg)
 ### 5. 예약하기
-![예약1](https://user-images.githubusercontent.com/78129881/128315241-0cb91db1-8859-4ed5-bd0d-8be9c5a22497.jpg)
-![예약4](https://user-images.githubusercontent.com/78129881/128315311-59420bf5-b79e-4b15-a38d-1fcb11f16abe.jpg)
+![예약2](https://user-images.githubusercontent.com/78129881/128315860-b643a08c-4c4d-46c4-9962-fe2111cfdfc1.jpg)
 ![예약4](https://user-images.githubusercontent.com/78129881/128315367-9341d29c-78da-4ad2-a1b9-c2bb6324d541.jpg)
 #### 5-1. 예약확인
 ![예약5](https://user-images.githubusercontent.com/78129881/128315392-faa1be29-d249-41b1-acff-5929c624706f.jpg)

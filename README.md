@@ -20,7 +20,7 @@
 #### <div align="center"> 부트스트랩을 사용한 메인화면입니다. </div>
 ### 1. 유저 로그인 (소셜 로그인)
 ![로그인1](https://user-images.githubusercontent.com/78129881/128315152-8ca5b055-5eb8-4695-a595-7ebc299845c8.jpg)
-#### 카카오와 네이버 API를 이용한 소셜로그인 구현 (OAuth)
+#### <div align="center"> 카카오와 네이버 API를 이용한 소셜로그인 구현 (OAuth) </div>
 ### 2. 회원가입
 ![회원가입](https://user-images.githubusercontent.com/78129881/128315161-32a883d4-6b0f-4f3f-88f9-89adb2fffbc8.jpg)
 

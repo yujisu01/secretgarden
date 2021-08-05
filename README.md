@@ -17,7 +17,7 @@
 ![메인ㄷ3](https://user-images.githubusercontent.com/78129881/128315111-0ab12ab7-c7d3-4b1b-9248-2f7c597f576e.jpg)
 ![메인4](https://user-images.githubusercontent.com/78129881/128315116-0b5f3226-6d2b-4295-88ff-cde4e202ae4c.jpg)
 
-#### 부트스트랩을 사용한 메인화면입니다.
+#### <div align="center"> 부트스트랩을 사용한 메인화면입니다. </div>
 ### 1. 유저 로그인 (소셜 로그인)
 ![로그인1](https://user-images.githubusercontent.com/78129881/128315152-8ca5b055-5eb8-4695-a595-7ebc299845c8.jpg)
 #### 카카오와 네이버 API를 이용한 소셜로그인 구현 (OAuth)
@@ -26,20 +26,20 @@
 
 ### 3. 회원수정
 ![정보수정](https://user-images.githubusercontent.com/78129881/128315183-c8687620-a8fb-4690-aff6-26ada7488291.jpg)
-#### Mypage에서 회원정보 수정가능
+#### <div align="center"> Mypage에서 회원정보 수정가능 </div>
 ### 4. 회원탈퇴
 ![회원탈퇴](https://user-images.githubusercontent.com/78129881/128315197-9ab64bbd-918d-4d11-9c72-a2efbf7f68f7.jpg)
 ### 5. 예약하기
 ![예약2](https://user-images.githubusercontent.com/78129881/128315860-b643a08c-4c4d-46c4-9962-fe2111cfdfc1.jpg)
 ![예약4](https://user-images.githubusercontent.com/78129881/128315367-9341d29c-78da-4ad2-a1b9-c2bb6324d541.jpg)
-#### Datepeeker를 이용한 예약하기 기능
+#### <div align="center"> Datepeeker를 이용한 예약하기 기능 </div>
 ### 5-1. 예약확인
 ![예약5](https://user-images.githubusercontent.com/78129881/128315392-faa1be29-d249-41b1-acff-5929c624706f.jpg)
-#### 예약자 정보 입력시 예약내역 확인
+#### <div align="center"> 예약자 정보 입력시 예약내역 확인 </div>
 ### 5-2. 예약취소
 ![예약6](https://user-images.githubusercontent.com/78129881/128315433-148f8a18-d910-4b09-a37c-0381e1b4e341.jpg)
 ![예약7](https://user-images.githubusercontent.com/78129881/128315451-9fb4bcf6-608b-4a48-a007-9b4c69cb4590.jpg)
-#### 예약자 정보 입력시 예약내역 취소가능
+#### <div align="center"> 예약자 정보 입력시 예약내역 취소가능 </div>
 
 
 ## :heavy_check_mark: ERD

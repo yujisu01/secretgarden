@@ -9,7 +9,11 @@
     
 
 ## :heavy_check_mark: 시연영상  (클릭시 영상이 재생됩니다)
-[![secretgardenProjectVideo](https://img.youtube.com/vi/qmONs1K2UUc/0.jpg)](https://www.youtube.com/watch?v=qmONs1K2UUc)
+[![secretgardenProjectVideo](https://img.youtube.com/vi/qmONs1K2UUc/0.jpg)](https://www.youtube.com/watch?v=qmONs1K2UUc) <br></br>
+0:00 ~ 0:30  메인소개 <br></br>
+0:31 ~ 01:06 로그인&회원가입 <br></br>
+01:07 ~ 01:38 회원정보 수정 & 회원탈퇴 <br></br>
+01:38 ~ 예약 페이지 <br></br>
 ## :heavy_check_mark: Overview
 ### 0. 메인페이지
 ![메인1](https://user-images.githubusercontent.com/78129881/128315101-667c765b-4c12-482e-af6c-ebd499f25823.jpg)

@@ -32,7 +32,7 @@
 ### 5. 예약하기
 ![예약2](https://user-images.githubusercontent.com/78129881/128315860-b643a08c-4c4d-46c4-9962-fe2111cfdfc1.jpg)
 ![예약4](https://user-images.githubusercontent.com/78129881/128315367-9341d29c-78da-4ad2-a1b9-c2bb6324d541.jpg)
-#### <div align="center"> Datepeeker를 이용한 예약하기 기능 </div>
+#### <div align="center"> Datepicker를 이용한 예약하기 기능 </div>
 ### 5-1. 예약확인
 ![예약5](https://user-images.githubusercontent.com/78129881/128315392-faa1be29-d249-41b1-acff-5929c624706f.jpg)
 #### <div align="center"> 예약자 정보 입력시 예약내역 확인 </div>

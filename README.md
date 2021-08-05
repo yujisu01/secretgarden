@@ -10,6 +10,17 @@
 
 ## :heavy_check_mark: 시연영상  (클릭시 영상이 재생됩니다)
 [![secretgardenProjectVideo](https://img.youtube.com/vi/qmONs1K2UUc/0.jpg)](https://www.youtube.com/watch?v=qmONs1K2UUc)
+## :heavy_check_mark: 서비스기능
+### 0. 메인페이지
+### 1. 유저 로그인 (소셜 로그인)
+### 2. 회원가입
+### 3. 회원수정
+### 4. 회원탈퇴
+### 5. 예약하기
+#### 5-1. 예약확인
+#### 5-2. 예약취소
+
+
 ## :heavy_check_mark: Overview
 ## :heavy_check_mark: ERD
 ![erd](https://user-images.githubusercontent.com/78129881/128227215-60162b26-4f70-4fb8-9d58-4da0b83f3313.jpg)

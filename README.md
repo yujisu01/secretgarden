@@ -47,7 +47,7 @@
 
 
 ## :heavy_check_mark: ERD
-![erd](https://user-images.githubusercontent.com/78129881/128227215-60162b26-4f70-4fb8-9d58-4da0b83f3313.jpg)
+![booking_member재캡처](https://user-images.githubusercontent.com/78129881/128800077-9b9e02fa-9a26-45fe-9462-1cc6674580a0.jpg)
 ## :heavy_check_mark: Tech stack
 ![tools](https://user-images.githubusercontent.com/78129881/128227254-eaa92183-0cb1-4c9f-a6e9-699c4a7a807d.jpg)
 <br></br><br></br><br></br>
